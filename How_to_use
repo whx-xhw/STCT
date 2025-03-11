@@ -1,0 +1,4 @@
+Due to time constraints, we provide a demo of STCT here.
+If you want to use this code, it is necessary to pre-train a model using SimCLR and extract its embedding features.
+When using this code, please execute step1-3 in sequence for one training epoch.
+Upon completing step1-3 once, let stct_epoch += 1.
